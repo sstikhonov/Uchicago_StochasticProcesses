@@ -1,2 +1,2 @@
-# Uchicago_StochasticProcesses
+# UChicago_StochasticProcesses
 Home assignments from UChicago Stochastic Processes course
